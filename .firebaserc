@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "dashboardproject-491cc",
+    "dist": "dashboardjobproject"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
